@@ -1,0 +1,12 @@
+title: Aaron Kor
+email: aaron.kor [at] gmail.com
+description: Hi
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aaronkor.github.io" # the base hostname & protocol for your site
+twitter_username: aaronkor
+github_username:  aaronkor
+repository: aaronkor/aaronkor.github.io
+
+# Build settings
+markdown: kramdown
+theme: minima
